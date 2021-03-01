@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_rl_action">
+    <sys_ui_policy_rl_action action="DELETE">
+        <list/>
+        <sys_class_name>sys_ui_policy_rl_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-02-25 13:12:18</sys_created_on>
+        <sys_id>646c5a252f222010b3f8532a2799b678</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_ui_policy_rl_action_646c5a252f222010b3f8532a2799b678</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-02-25 13:12:18</sys_updated_on>
+        <ui_policy display_value="Eion Testing UI Policy Action">96fb5ae12f222010b3f8532a2799b6e3</ui_policy>
+        <visible>ignore</visible>
+    </sys_ui_policy_rl_action>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>db12fc25db93f30c0ae3ac44d49619a1</instance_id>
+        <instance_name>dev91732</instance_name>
+        <name>sys_ui_policy_rl_action_646c5a252f222010b3f8532a2799b678</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_rl_action"><sys_ui_policy_rl_action action="INSERT_OR_UPDATE"><list/><sys_class_name>sys_ui_policy_rl_action</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-02-25 13:12:18</sys_created_on><sys_id>646c5a252f222010b3f8532a2799b678</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_ui_policy_rl_action_646c5a252f222010b3f8532a2799b678</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-02-25 13:12:18</sys_updated_on><ui_policy display_value="Eion Testing UI Policy Action">96fb5ae12f222010b3f8532a2799b6e3</ui_policy><visible>ignore</visible></sys_ui_policy_rl_action></record_update>]]></payload>
+        <payload_hash>-2009425978</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>5e301fe41ba220105fee1067bc4bcbb3</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-02-25 13:12:18</sys_created_on>
+        <sys_id>fe7cd2e12f222010b3f8532a2799b6fa</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>177d95194ad0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-02-25 13:12:18</sys_updated_on>
+        <type>UI Policy Related List Action</type>
+        <update_guid>3a7cd2e1872220106566bcc3ad5bebfa</update_guid>
+        <update_guid_history>3a7cd2e1872220106566bcc3ad5bebfa:-2009425978</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-02-25 13:12:48</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_policy_rl_action">sys_ui_policy_rl_action</sys_db_object>
+        <sys_id>1be71219d29c4d32b51116bf2a1d94e4</sys_id>
+        <sys_metadata>646c5a252f222010b3f8532a2799b678</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete/>
+        <sys_update_name>sys_ui_policy_rl_action_646c5a252f222010b3f8532a2799b678</sys_update_name>
+        <sys_update_version display_value="sys_ui_policy_rl_action_646c5a252f222010b3f8532a2799b678">fe7cd2e12f222010b3f8532a2799b6fa</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-02-25 13:12:48</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
