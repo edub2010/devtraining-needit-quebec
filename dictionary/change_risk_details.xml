@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="domain_master=change_request" label="Change Risk Details" max_length="40" name="change_risk_details" sizeclass="0" type="collection">
+        <element attributes="encode_utf8=false" label="Change Risk Assessment" max_length="32" name="change_risk_asmt" reference="change_risk_asmt" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" choice="3" choice_field="risk" choice_table="change_request" label="Risk assessment" max_length="40" name="risk_assessment" type="string">
+            <choice/>
+        </element>
+        <element label="Risk assessment has run" max_length="40" name="risk_assessment_has_run" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" choice="3" choice_field="risk" choice_table="change_request" label="Risk assessment prev" max_length="40" name="risk_assessment_prev" type="string">
+            <choice/>
+        </element>
+        <index name="index">
+            <element name="change_risk_asmt"/>
+        </index>
+    </element>
+</database>
